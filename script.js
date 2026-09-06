@@ -6,7 +6,7 @@
        INSTAGRAM_URL = 'https://instagram.com/assyam'
      ══════════════════════════════════════════════════ */
   const GITHUB_URL    = 'https://github.com/XSinus0111';
-  const INSTAGRAM_URL = 'https://instagram.com/setelah.hujan25';
+  const INSTAGRAM_URL = 'https://instagram.com/assyam.dev';
 
   // Terapkan ke SEMUA icon sosmed (home + footer) sekaligus lewat ID
   ['home-gh',  'footer-gh' ].forEach(id => { const el = document.getElementById(id); if(el) el.href = GITHUB_URL;    });
